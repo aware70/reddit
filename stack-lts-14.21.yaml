@@ -1,4 +1,4 @@
-resolver: lts-15.7
+resolver: lts-14.21
 
 extra-deps:
   - github: intolerable/api-builder
